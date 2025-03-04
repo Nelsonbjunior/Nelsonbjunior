@@ -5,10 +5,11 @@
 ## About Me 
 I'm a Support analyst and Systems Technician 👨‍💻 who is passionate about tech. 
 
-- 💼 Working 1 at **Hospital Delphina Abidal Aziz / INDSH** 
-- 💼 Working 2 at **CW Comércio e Tecnologia**
+- 💼 Working 1 at **Foxconn PCEBG(electronic testing specialist)** 
+- 💼 CEO at **DevTech**
+- 👨‍🎓 Coursing Software Engineering at **Ampli/Anhanguera**
 - 👨‍🎓 Coursing Database Technology at **FAM - Faculdade de Americana**
-- 🌱 I’m currently learning **Python**, **Ruby**  and **Java** 
+- 🌱 I’m currently learning **Python**, **Ruby** and **Go**.
 - 💬 Confortable with: **Brazilian Portuguese** and **English**
-- ⚡ Techs: **Oracle PL/SQL**, **SQL SERVER**, **C#**, **Batchscript**, **C**, **VB.Net**, **PHP** and **Javascript**
+- ⚡ Techs: **Oracle PL/SQL**, **SQL SERVER**, **C#**, **Batchscript**, **C++**, **VB.Net**, **PHP** and **Javascript**
 
